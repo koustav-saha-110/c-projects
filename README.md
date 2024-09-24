@@ -6,3 +6,4 @@
 ## 4. Simple Interest Calculator
 ## 5. Body Mass Index Calculator
 ## 6. Currency Converter
+## 7. Student Grading System
